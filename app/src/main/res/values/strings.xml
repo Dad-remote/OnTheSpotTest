@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnTheStopTest</string>
+    <string name="special_body">Special body</string>
+    <string name="no_boots">No boots detected</string>
+    <string name="boots_detected">The boot was detected = %1$s</string>
+    <string name="last_boots_delta">Last boots time delta = %1$d [ms]</string>
+    <string name="last_boot">Last boot: %1$s</string>
+</resources>
